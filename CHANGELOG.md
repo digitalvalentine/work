@@ -1,1 +1,3 @@
 - new lab has been added
+- changelog has been added
+- new lab has been added
