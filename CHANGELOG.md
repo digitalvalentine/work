@@ -1,3 +1,5 @@
+- lab 5 and changelog have been added
+- changelog has been added
 - new lab has been added
 - changelog has been added
 - new lab has been added
