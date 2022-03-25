@@ -1,3 +1,5 @@
+- lab05 'illness', new tags and changelog.md have been added
+- changelog has been added
 - lab 5 and changelog have been added
 - changelog has been added
 - new lab has been added
